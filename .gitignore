@@ -1,0 +1,7 @@
+*
+!/ITCA 1/
+!/ITCA 1/**
+!/ITCA 2/
+!/ITCA 2/**
+!.gitignore
+**/.claude/
